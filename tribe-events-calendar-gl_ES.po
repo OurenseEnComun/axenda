@@ -3893,7 +3893,7 @@ msgstr "Tipo de vista"
 
 #: ../views/month/mobile.php:40
 msgid "Find out more »"
-msgstr ""
+msgstr "Ver máis detalles do acto "
 
 #: ../views/month/nav.php:18
 msgid "Calendar Month Navigation"

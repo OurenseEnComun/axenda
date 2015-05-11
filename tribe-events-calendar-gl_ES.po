@@ -1613,7 +1613,7 @@ msgstr ""
 
 #: ../lib/template-classes/day.php:99 ../lib/template-classes/day.php:115
 msgid "All Day"
-msgstr ""
+msgstr "Durante o día"
 
 #: ../lib/template-classes/day.php:102 ../lib/template-classes/day.php:118
 msgid "Ongoing"
@@ -2146,11 +2146,11 @@ msgstr "Actos para o"
 
 #: ../lib/the-events-calendar.class.php:4511
 msgid "Events From"
-msgstr ""
+msgstr "Actos desde o"
 
 #: ../lib/the-events-calendar.class.php:4513
 msgid "Day Of"
-msgstr ""
+msgstr "O día"
 
 #: ../lib/tickets/tribe-tickets-attendees.php:65
 msgid "Order #"
@@ -2318,7 +2318,7 @@ msgstr ""
 
 #: ../lib/tribe-ical.class.php:77
 msgid "Add to Google Calendar"
-msgstr ""
+msgstr "Engadir ao teu Calendario de Google"
 
 #: ../lib/tribe-ical.class.php:77
 msgid "Google Calendar"
@@ -2326,7 +2326,7 @@ msgstr ""
 
 #: ../lib/tribe-ical.class.php:78
 msgid "Download .ics file"
-msgstr ""
+msgstr "Descargar arquivo .ics (estándar iCalendar)"
 
 #: ../lib/tribe-ical.class.php:78
 msgid "iCal Export"
@@ -3767,7 +3767,7 @@ msgstr "Hora"
 #: ../public/advanced-functions/meta.php:329
 #: ../public/template-tags/google-map.php:44
 msgid "Click to view a Google Map"
-msgstr ""
+msgstr "Preme para ver nun Mapa de Google"
 
 #: ../public/advanced-functions/meta.php:330
 #: ../public/template-tags/google-map.php:45

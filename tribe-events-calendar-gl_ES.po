@@ -3794,11 +3794,11 @@ msgstr "Acto:"
 
 #: ../public/template-tags/day.php:103
 msgid "<span>&laquo;</span> Previous Day"
-msgstr "<span>&laquo;</span> Día Previo"
+msgstr "<span>&laquo;</span> O día anterior"
 
 #: ../public/template-tags/day.php:105
 msgid "Next Day <span>&raquo;</span>"
-msgstr "Proximo Día <span>&raquo;</span>"
+msgstr "O día seguinte <span>&raquo;</span>"
 
 #: ../public/template-tags/day.php:107
 msgid "Yesterday"
@@ -3877,7 +3877,7 @@ msgstr "<span>&laquo;</span> Actos Previos"
 
 #: ../views/list/nav.php:30
 msgid "Next Events <span>&raquo;</span>"
-msgstr "Proximos Actos <span>&raquo;</span>"
+msgstr "Próximos Actos <span>&raquo;</span>"
 
 #: ../views/modules/bar.php:32 ../views/modules/bar.php:63
 msgid "Find Events"
@@ -3939,4 +3939,4 @@ msgstr "Ver Todos os Actos"
 
 #: ../views/widgets/list-widget.php:70
 msgid "There are no upcoming events at this time."
-msgstr "Non hai ningún acto previsto proximamente"
+msgstr "Non hai ningún acto previsto nos vindeiros días"

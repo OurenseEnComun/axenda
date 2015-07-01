@@ -1654,7 +1654,7 @@ msgstr ""
 
 #: ../lib/template-classes/single-event.php:120
 msgid "This event has passed."
-msgstr ""
+msgstr "Este evento xa tivo lugar"
 
 #: ../lib/the-events-calendar.class.php:518
 #: ../public/advanced-functions/meta.php:445

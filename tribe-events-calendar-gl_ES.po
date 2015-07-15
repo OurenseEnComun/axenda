@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 11:58-0800\n"
-"PO-Revision-Date: 2015-07-11 00:07+0200\n"
+"PO-Revision-Date: 2015-07-15 11:41+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
 "Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
 "Language: Galician\n"
@@ -369,7 +369,7 @@ msgstr ""
 
 #: ../src/Tribe/Main.php:574
 msgid "month"
-msgstr "mes"
+msgstr ""
 
 #: ../src/Tribe/Main.php:575
 msgid "list"
@@ -385,7 +385,7 @@ msgstr "pasado"
 
 #: ../src/Tribe/Main.php:578
 msgid "day"
-msgstr "día"
+msgstr ""
 
 #: ../src/Tribe/Main.php:579
 msgid "today"
@@ -3733,7 +3733,7 @@ msgstr "Vindeiros %s"
 #: ../src/functions/template-tags/loop.php:145
 #, php-format
 msgid "%1$s for %2$s - %3$s"
-msgstr "%1$s entre %2$s - %3$s"
+msgstr "Axenda entre o %2$s e o %3$s"
 
 #: ../src/functions/template-tags/loop.php:147
 #, php-format

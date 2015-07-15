@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 11:58-0800\n"
-"PO-Revision-Date: 2015-07-15 11:41+0200\n"
+"PO-Revision-Date: 2015-07-15 13:30+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
 "Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
 "Language: Galician\n"
@@ -42,7 +42,7 @@ msgstr "Grazas por actualizar The Events Calendar"
 #: ../src/Tribe/Admin_List.php:168 ../src/Tribe/Main.php:1254
 #, php-format
 msgid "%s Categories"
-msgstr "Tipos de %s"
+msgstr "Categorías"
 
 #: ../src/Tribe/Admin_List.php:174
 msgid "Start Date"
@@ -345,13 +345,13 @@ msgstr "Lugar"
 #: ../src/Tribe/Main.php:503 ../src/functions/template-tags/organizer.php:59
 #: ../src/io/csv/admin-views/import.php:46
 msgid "Organizers"
-msgstr ""
+msgstr "Axendas persoais"
 
 #: ../src/Tribe/Main.php:511
 #: ../src/functions/advanced-functions/meta_registration.php:205
 #: ../src/functions/template-tags/organizer.php:48
 msgid "Organizer"
-msgstr ""
+msgstr "Na axenda institucional persoal de:"
 
 #: ../src/Tribe/Main.php:519 ../src/functions/template-tags/general.php:71
 #: ../src/io/csv/admin-views/import.php:47
@@ -482,7 +482,7 @@ msgstr ""
 #: ../src/Tribe/Main.php:1422 ../src/Tribe/Main.php:3867
 #, php-format
 msgid "Edit %s"
-msgstr ""
+msgstr "Editar %s"
 
 #: ../src/Tribe/Main.php:1220 ../src/Tribe/Main.php:1233
 #: ../src/Tribe/Main.php:1246
@@ -517,17 +517,17 @@ msgstr ""
 #: ../src/Tribe/Main.php:1255 ../src/functions/template-tags/general.php:393
 #, php-format
 msgid "%s Category"
-msgstr "Tipos de %"
+msgstr "Categoría de %s"
 
 #: ../src/Tribe/Main.php:1256
 #, php-format
 msgid "Search %s Categories"
-msgstr "Buscar tipos de %s"
+msgstr "Buscar categoría de %s"
 
 #: ../src/Tribe/Main.php:1257
 #, php-format
 msgid "All %s Categories"
-msgstr "Todos os tipos de %s"
+msgstr "Todas as categorías de %s"
 
 #: ../src/Tribe/Main.php:1258
 #, fuzzy, php-format
@@ -659,7 +659,7 @@ msgstr ""
 #: ../src/Tribe/Main.php:1485 ../src/Tribe/Main.php:1566
 #, php-format
 msgid "Use New %s"
-msgstr "Usar un novo lugar"
+msgstr "Usar un novo %s"
 
 #: ../src/Tribe/Main.php:1487 ../src/Tribe/Main.php:1568
 #, php-format
@@ -749,9 +749,9 @@ msgid "View Calendar"
 msgstr "Ver Calendario"
 
 #: ../src/Tribe/Main.php:3856
-#, fuzzy, php-format
+#, php-format
 msgid "Add %s"
-msgstr "Engadir novo"
+msgstr "Engadir %s"
 
 #: ../src/Tribe/Main.php:3888
 msgid "CSV"
@@ -2711,13 +2711,13 @@ msgstr "Telefono:"
 #: ../src/views/modules/meta/organizer.php:34
 #: ../src/views/modules/meta/venue.php:45
 msgid "Website:"
-msgstr ""
+msgstr "Web:"
 
 #: ../src/admin-views/organizer-meta-box.php:34
 #: ../src/functions/advanced-functions/meta_registration.php:254
 #: ../src/views/modules/meta/organizer.php:29
 msgid "Email:"
-msgstr ""
+msgstr "Correo-e"
 
 #: ../src/admin-views/organizer-meta-box.php:35
 msgid ""
@@ -3991,7 +3991,7 @@ msgstr "Tipo de vista"
 #: ../src/views/modules/meta/details.php:119
 #, php-format
 msgid "%s Tags:"
-msgstr "Etiquetas: %s"
+msgstr "Etiquetas:"
 
 #: ../src/views/month/mobile.php:13
 #, php-format
@@ -4009,11 +4009,11 @@ msgstr ""
 "de Navegación"
 
 #: ../src/views/month/single-day.php:43
-#, fuzzy, php-format
+#, php-format
 msgid "View 1 %1$s"
 msgid_plural "View All %2$s %3$s"
-msgstr[0] "Tipo de vista"
-msgstr[1] "Tipo de vista"
+msgstr[0] "Ver o %1%s"
+msgstr[1] "Ver os %2$s %3$s"
 
 #: ../src/views/single-event.php:27
 #, php-format

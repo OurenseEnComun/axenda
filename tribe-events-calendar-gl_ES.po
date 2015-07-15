@@ -517,7 +517,9 @@ msgstr ""
 #: ../src/Tribe/Main.php:1255 ../src/functions/template-tags/general.php:393
 #, php-format
 msgid "%s Category"
-msgstr "Categoría de %s"
+msgid_plural "%s Categories"
+msgstr[0] "Categoría"
+msgstr[1] "Categorías"
 
 #: ../src/Tribe/Main.php:1256
 #, php-format

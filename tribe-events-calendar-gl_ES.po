@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 11:58-0800\n"
-"PO-Revision-Date: 2015-07-15 13:30+0200\n"
+"PO-Revision-Date: 2015-07-15 19:32+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
 "Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
 "Language: Galician\n"
@@ -369,7 +369,7 @@ msgstr ""
 
 #: ../src/Tribe/Main.php:574
 msgid "month"
-msgstr ""
+msgstr "mes"
 
 #: ../src/Tribe/Main.php:575
 msgid "list"
@@ -385,11 +385,11 @@ msgstr "pasado"
 
 #: ../src/Tribe/Main.php:578
 msgid "day"
-msgstr ""
+msgstr "dia"
 
 #: ../src/Tribe/Main.php:579
 msgid "today"
-msgstr ""
+msgstr "hoxe"
 
 #: ../src/Tribe/Main.php:603
 #, php-format
@@ -459,11 +459,11 @@ msgstr ""
 
 #: ../src/Tribe/Main.php:1176
 msgid "category"
-msgstr ""
+msgstr "categoria"
 
 #: ../src/Tribe/Main.php:1187
 msgid "tag"
-msgstr ""
+msgstr "etiqueta"
 
 #: ../src/Tribe/Main.php:1217 ../src/Tribe/Main.php:1230
 #: ../src/Tribe/Main.php:1243
@@ -3705,11 +3705,11 @@ msgstr ""
 
 #: ../src/functions/template-tags/deprecated.php:1283
 msgid "Category"
-msgstr "Categorias"
+msgstr "Categoria"
 
 #: ../src/functions/template-tags/general.php:426
 msgid "Tags:"
-msgstr ""
+msgstr "Etiquetas:"
 
 #: ../src/functions/template-tags/general.php:538
 #, fuzzy, php-format

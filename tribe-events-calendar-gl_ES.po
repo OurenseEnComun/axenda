@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 11:58-0800\n"
-"PO-Revision-Date: 2015-09-02 19:29+0200\n"
+"PO-Revision-Date: 2015-09-03 10:21+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
 "Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
 "Language: Galician\n"
@@ -170,31 +170,31 @@ msgstr ""
 
 #: ../src/Tribe/Importer/Column_Mapper.php:52
 msgid "Event Name"
-msgstr "Nome do acto"
+msgstr "Nome do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:53
 msgid "Event Description"
-msgstr "Descrición do acto"
+msgstr "Descrición do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:54
 msgid "Event Start Date"
-msgstr "Data de comezo do acto"
+msgstr "Data de comezo do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:55
 msgid "Event Start Time"
-msgstr "Hora de comezo do acto"
+msgstr "Hora de comezo do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:56
 msgid "Event End Date"
-msgstr "Data de fin do acto"
+msgstr "Data de fin do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:57
 msgid "Event End Time"
-msgstr "Hora de fin do acto"
+msgstr "Hora de fin do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:58
 msgid "All Day Event"
-msgstr "Acto de todo o día"
+msgstr "Evento de todo o día"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:59
 msgid "Event Venue Name"
@@ -214,7 +214,7 @@ msgstr ""
 
 #: ../src/Tribe/Importer/Column_Mapper.php:63
 msgid "Event Cost"
-msgstr "Custo do Acto"
+msgstr "Custo do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:64
 msgid "Event Phone"
@@ -222,11 +222,11 @@ msgstr ""
 
 #: ../src/Tribe/Importer/Column_Mapper.php:65
 msgid "Event Category"
-msgstr "Tipo de acto"
+msgstr "Tipo de evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:66
 msgid "Event Website"
-msgstr "Web do Acto"
+msgstr "Web do evento"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:72
 msgid "Venue Name"
@@ -262,7 +262,7 @@ msgstr ""
 
 #: ../src/Tribe/Importer/Column_Mapper.php:80
 msgid "Venue Website"
-msgstr "Web do Acto"
+msgstr "Web do lugar"
 
 #: ../src/Tribe/Importer/Column_Mapper.php:86
 msgid "Organizer Name"
@@ -329,7 +329,7 @@ msgstr ""
 
 #: ../src/Tribe/List_Widget.php:171
 msgid "Upcoming Events"
-msgstr "Próximos actos"
+msgstr "Próximos eventos"
 
 #: ../src/Tribe/Main.php:487 ../src/functions/template-tags/venue.php:52
 #: ../src/io/csv/admin-views/import.php:45
@@ -356,11 +356,11 @@ msgstr "Na axenda institucional persoal de:"
 #: ../src/Tribe/Main.php:519 ../src/functions/template-tags/general.php:71
 #: ../src/io/csv/admin-views/import.php:47
 msgid "Events"
-msgstr "Actos"
+msgstr "Eventos"
 
 #: ../src/Tribe/Main.php:527 ../src/functions/template-tags/general.php:60
 msgid "Event"
-msgstr "Acto"
+msgstr "Evento"
 
 #: ../src/Tribe/Main.php:569 ../src/Tribe/Settings.php:132
 #: ../src/admin-views/tribe-options-help.php:169
@@ -609,7 +609,7 @@ msgstr ""
 msgid ""
 "%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s"
 "\">Preview %4$s</a>"
-msgstr "Ningún acto previsto para o <strong>%s</strong>. Mira noutra data!"
+msgstr "Non hai nada previsto na axenda para o <strong>%s</strong>. Mira noutra data!"
 
 #: ../src/Tribe/Main.php:1293 ../src/Tribe/Main.php:1312
 #: ../src/Tribe/Main.php:1331
@@ -791,12 +791,12 @@ msgstr "Data"
 #: ../src/Tribe/Main.php:4167
 #, php-format
 msgid "%s In"
-msgstr "%s o"
+msgstr "Axenda do"
 
 #: ../src/Tribe/Main.php:4169
 #, php-format
 msgid "%s From"
-msgstr "%s desde o"
+msgstr "Axenda desde o"
 
 #: ../src/Tribe/Main.php:4171
 msgid "Day Of"
@@ -2454,9 +2454,9 @@ msgid "Day's %s"
 msgstr "%s do día"
 
 #: ../src/Tribe/iCal.php:117
-#, fuzzy, php-format
+#, php-format
 msgid "Listed %s"
-msgstr "Lista"
+msgstr "%s listados"
 
 #: ../src/Tribe/iCal.php:122
 msgid ""
@@ -2616,7 +2616,7 @@ msgstr ""
 #: ../src/admin-views/events-meta-box.php:37
 #, fuzzy
 msgid "Time &amp; Date"
-msgstr "Día e hora do acto"
+msgstr "Día e hora do evento"
 
 #: ../src/admin-views/events-meta-box.php:44
 #, php-format
@@ -2649,9 +2649,9 @@ msgid "Location"
 msgstr ""
 
 #: ../src/admin-views/events-meta-box.php:120
-#, fuzzy, php-format
+#, php-format
 msgid "%s Website"
-msgstr "Web do Acto"
+msgstr "Web do %s"
 
 #: ../src/admin-views/events-meta-box.php:123
 msgid "URL:"
@@ -2736,11 +2736,11 @@ msgstr ""
 
 #: ../src/admin-views/tickets/attendees.php:17
 msgid "Event Summary"
-msgstr "Resumo do acto"
+msgstr "Resumo do evento"
 
 #: ../src/admin-views/tickets/attendees.php:23
 msgid "Event Details"
-msgstr "Detalles do acto"
+msgstr "Detalles do evento"
 
 #: ../src/admin-views/tickets/attendees.php:25
 msgid "Start Date / Time:"
@@ -3175,7 +3175,7 @@ msgstr "Configuración Xeral"
 
 #: ../src/admin-views/tribe-options-general.php:66
 msgid "Number of events to show per page"
-msgstr "Número de actos por paxina"
+msgstr "Número de eventos por paxina"
 
 #: ../src/admin-views/tribe-options-general.php:73
 msgid "Use Javascript to control date filtering"
@@ -3730,12 +3730,12 @@ msgstr ""
 #: ../src/functions/template-tags/loop.php:131
 #, php-format
 msgid "Upcoming %s"
-msgstr "Vindeiros %s"
+msgstr "Vindeiros %s na axenda"
 
 #: ../src/functions/template-tags/loop.php:145
 #, php-format
 msgid "%1$s for %2$s - %3$s"
-msgstr "Axenda entre o %2$s e o %3$s"
+msgstr "Axenda entre: %2$s - %3$s"
 
 #: ../src/functions/template-tags/loop.php:147
 #, php-format
@@ -3828,7 +3828,7 @@ msgstr ""
 
 #: ../src/io/csv/admin-views/header.php:17
 msgid "Events Import"
-msgstr "Importar Actos"
+msgstr "Importar eventos"
 
 #: ../src/io/csv/admin-views/import.php:17
 msgid "Import Instructions"
@@ -3960,7 +3960,7 @@ msgstr "Navegación Días"
 
 #: ../src/views/day/single-event.php:66 ../src/views/list/single-event.php:70
 msgid "Find out more"
-msgstr "Ver máis detalles do acto"
+msgstr "Ver máis detalles do evento"
 
 #: ../src/views/list/nav.php:19
 #, fuzzy, php-format
@@ -3970,12 +3970,12 @@ msgstr "Navegación Días"
 #: ../src/views/list/nav.php:25
 #, php-format
 msgid "<span>&laquo;</span> Previous %s"
-msgstr "<span>&laquo;</span> %s previos"
+msgstr "<span>&laquo;</span> Axenda previa"
 
 #: ../src/views/list/nav.php:32
 #, php-format
 msgid "Next %s <span>&raquo;</span>"
-msgstr "O %s seguinte <span>&raquo;</span>"
+msgstr "Axenda vindeira <span>&raquo;</span>"
 
 #: ../src/views/modules/bar.php:30 ../src/views/modules/bar.php:61
 #, php-format
@@ -4002,7 +4002,7 @@ msgstr "%s para"
 
 #: ../src/views/month/mobile.php:37
 msgid "Find out more »"
-msgstr "Ver máis detalles do acto "
+msgstr "Ver máis detalles do evento"
 
 #: ../src/views/month/nav.php:18
 msgid "Calendar Month Navigation"

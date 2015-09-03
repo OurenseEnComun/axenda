@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 11:58-0800\n"
-"PO-Revision-Date: 2015-07-15 19:32+0200\n"
+"PO-Revision-Date: 2015-09-02 19:29+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
 "Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
 "Language: Galician\n"
@@ -978,7 +978,7 @@ msgid ""
 msgstr ""
 
 #: ../src/Tribe/Template/Single_Event.php:120
-#, fuzzy, php-format
+#, php-format
 msgid "This %s has passed."
 msgstr "Este evento xa tivo lugar"
 
@@ -2439,17 +2439,17 @@ msgid "iCal Export"
 msgstr "Exportar a iCal"
 
 #: ../src/Tribe/iCal.php:108
-#, fuzzy, php-format
+#, php-format
 msgid "Month's %s"
 msgstr "%s do mes"
 
 #: ../src/Tribe/iCal.php:111
-#, fuzzy, php-format
+#, php-format
 msgid "Week's %s"
 msgstr "%s da semana"
 
 #: ../src/Tribe/iCal.php:114
-#, fuzzy, php-format
+#, php-format
 msgid "Day's %s"
 msgstr "%s do día"
 

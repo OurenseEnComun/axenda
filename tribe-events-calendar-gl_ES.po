@@ -3,9 +3,8 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-15 15:32-0400\n"
-"PO-Revision-Date: 2015-09-03 10:21+0200\n"
+"PO-Revision-Date: 2016-04-09 23:49+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
-"Language-Team: Modern Tribe, Inc. <pro@tri.be>\n"
 "Language: Galician\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,11 +12,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Loco - https://localise.biz/\n"
-"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
-"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
-"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
-"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
-"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 "X-Loco-Target-Locale: gl_ES\n"
@@ -4281,19 +4276,19 @@ msgstr ""
 
 #: src/functions/template-tags/day.php:106
 msgid "Previous Day"
-msgstr ""
+msgstr "Día anterior"
 
 #: src/functions/template-tags/day.php:108
 msgid "Next Day"
-msgstr ""
+msgstr "Día seguinte"
 
 #: src/functions/template-tags/day.php:110
 msgid "Yesterday"
-msgstr ""
+msgstr "Onte"
 
 #: src/functions/template-tags/day.php:112
 msgid "Tomorrow"
-msgstr ""
+msgstr "Mañá"
 
 #: src/functions/template-tags/deprecated.php:1299
 msgid "Category"
@@ -4542,14 +4537,14 @@ msgid "%s List Navigation"
 msgstr "Navegación Días"
 
 #: src/views/list/nav.php:26
-#, fuzzy, php-format
+#, php-format
 msgid "Previous %s"
-msgstr "Ningún %s previo "
+msgstr "Axenda previa"
 
 #: src/views/list/nav.php:34
 #, php-format
 msgid "Next %s"
-msgstr ""
+msgstr "Vindeiros eventos"
 
 #: src/views/modules/bar.php:30 src/views/modules/bar.php:61
 #, php-format
@@ -4562,7 +4557,7 @@ msgstr ""
 
 #: src/views/modules/bar.php:38
 msgid "View As"
-msgstr "Tipo de vista"
+msgstr "Escolle a túa vista"
 
 #: src/views/modules/meta/details.php:142
 #, php-format

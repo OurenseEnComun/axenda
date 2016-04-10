@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-15 15:32-0400\n"
-"PO-Revision-Date: 2016-04-10 00:45+0200\n"
+"PO-Revision-Date: 2016-04-10 21:05+0200\n"
 "Last-Translator: Emilio J. Padrón <emiliojpg@gmail.com>\n"
 "Language: Galician\n"
 "MIME-Version: 1.0\n"
@@ -3337,9 +3337,8 @@ msgid "event"
 msgstr "Evento"
 
 #: src/Tribe/Main.php:2446
-#, fuzzy
 msgid "events"
-msgstr "Eventos"
+msgstr "eventos"
 
 #: src/Tribe/Main.php:2447
 msgid "all"
@@ -3448,16 +3447,16 @@ msgid "Ongoing"
 msgstr ""
 
 #: src/Tribe/Template/Day.php:134
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "No matching %1$s listed under %2$s scheduled for %3$s. Please try another "
 "day."
-msgstr "Non hai %s previstos para o <strong>%s</strong>. Mira noutra data!"
+msgstr "Non hai %s previstos para o %s. Mira noutra data!"
 
 #: src/Tribe/Template/Day.php:136
 #, php-format
 msgid "No %1$s scheduled for %2$s. Please try another day."
-msgstr "Non hai %s previstos para o <strong>%s</strong>. Mira noutra data!"
+msgstr "Non hai %s previstos para o %s. Mira noutra data!"
 
 #: src/Tribe/Template/Month.php:281
 #, php-format
